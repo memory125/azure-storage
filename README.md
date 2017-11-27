@@ -2,6 +2,7 @@
 This is for azure storage sample codes.
 
 # Steps
+Please run the separate sample according to the following step.
 
 ## dotnet
 
