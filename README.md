@@ -35,7 +35,7 @@ This is for azure storage sample codes.
 
 * Copy the storage connection string.
 
-* Replace the account_name and account_key in storage-table.py.
+* Replace the account_name and account_key with real string from azure storage in storage-table.py.
 
 * Install the azure storage library by running the following command.
     * pip install azure.storage
