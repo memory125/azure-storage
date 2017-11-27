@@ -29,3 +29,17 @@ This is for azure storage sample codes.
 * Run the sample with Eclipse.
 
 * If you want to check data, you can download "Microsoft Azure Storage Explorer".
+
+## python
+* Create Azure Storage on Azure Portal.
+
+* Copy the storage connection string.
+
+* Replace the account_name and account_key in storage-table.py.
+
+* Install the azure storage library by running the following command.
+    * pip install azure.storage
+
+* Run the sample with visual studio code or PyCharm.
+
+* If you want to check data, you can download "Microsoft Azure Storage Explorer".
